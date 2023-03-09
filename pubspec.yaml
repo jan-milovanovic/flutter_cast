@@ -1,7 +1,7 @@
 name: cast
 description: Dart package to discover and connect with Chromecast devices
 version: 1.1.2
-homepage: hhttps://github.com/jan-milovanovic/flutter_cast
+homepage: https://github.com/jan-milovanovic/flutter_cast
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
