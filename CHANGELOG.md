@@ -1,3 +1,8 @@
+## [1.1.2]
+
+* Upgrade all dependencies
+* Upgrade example for ios and android
+
 ## [1.1.1]
 
 * Upgrade dependency `bonsoir`
